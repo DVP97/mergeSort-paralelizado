@@ -19,7 +19,7 @@ def main():
     print('Tiempo transcurrido: %f sec' %fin)
     print('\n+ Array final ordenada mediante mergeSort por paralelización en función de cores de la maquina:',arr)
     ime.sleep(5) # Pausa para apreciar la ejecución del programa
-
+# REVISADO Y FINALIZADO
     
 
 def merge(left, right):
